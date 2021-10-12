@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+      "module": "es2020",
+      "moduleResolution": "node",
+      "target": "es2020",
+      "declaration": true,
+      "noImplicitAny": false,
+      "noImplicitThis": true,
+      "rootDir": "./",
+      "noResolve": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "types": [
+        "jasmine"
+      ]
+  }
+}
